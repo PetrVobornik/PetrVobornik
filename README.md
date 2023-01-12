@@ -1,4 +1,4 @@
-Zabývám se výukou a popularizací programování, vývojem nejen výukových aplikací, tvorbou video-tutoriálů, streamováním a sdílením zdrojových kódů různých nástrojů a příkladů.
+Zabývám se výukou a popularizací programování, vývojem nejen vzdělávacích aplikací, tvorbou video-tutoriálů, streamováním a sdílením zdrojových kódů různých nástrojů a příkladů.
 
 Mé video-tutoriály na YouTube: [Programko.NET](https://Programko.NET)
 
