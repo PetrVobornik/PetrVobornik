@@ -2,7 +2,7 @@ Zabývám se výukou a popularizací programování, vývojem nejen vzdělávac�
 
 Mé video-tutoriály na YouTube: [Programko.NET](https://Programko.NET)
 
-Krom [GitHub](https://github.com/PetrVobornik) a [YT](https://Programko.NET) mě najdete také na: [Twitch](https://www.twitch.tv/petrvobornik), [Twitter](https://twitter.com/VobornikPetr), [LinkedIn](https://www.linkedin.com/in/pvobornik), [Discord](https://programko.net/discord), [ResearchGate](https://www.researchgate.net/profile/Petr-Vobornik), [osobním webu](https://www.petrvobornik.cz/)...
+Krom [GitHub](https://github.com/PetrVobornik) a [YT](https://Programko.NET) mě najdete také na: [Twitch](https://www.twitch.tv/petrvobornik), [Twitter](https://twitter.com/VobornikPetr), [LinkedIn](https://www.linkedin.com/in/pvobornik), [Discord](https://programko.net/discord), [ResearchGate](https://www.researchgate.net/profile/Petr-Vobornik), [osobním webu](https://www.petrvobornik.cz/), [HeroHero](https://herohero.co/petrvobornik), [atd.](https://programko.net/pv)
 
 Na mém GitHub najdete například:
 * Knihy
